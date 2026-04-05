@@ -22,4 +22,17 @@ Technologies used:
 
 ---
 
-## 🏗️ Project Structure
+
+---
+
+## 🛠️ Features
+
+- **Book Listing:** Display all books stored in the database  
+- **Add Book:** Create new book entries  
+- **Edit Book:** Update book details  
+- **Delete Book:** Remove books from the database  
+- **Dynamic Templates:** Pages automatically update based on database content  
+- **Admin Panel:** Manage books directly via Django admin  
+
+---
+
