@@ -54,6 +54,8 @@ This project tells the story of turning software knowledge into practical, real-
 <ol> <li>🚀 Launch the **web application locally**</li> <li>📄 Navigate pages to **view, add, edit, or delete books**</li> <li>📝 Use **forms and templates** to interact with the database</li> <li>⚙️ Manage books via **admin panel**</li> <li>✅ Test functionality with sample data</li> </ol>
 <h2>💼 KEY SKILLS / УМЕНИЯ</h2> <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
 
+---
+
 💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio & recruiter impact.
 
 ---
