@@ -89,6 +89,14 @@ This project tells the story of turning software knowledge into practical, real-
 
 <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
 
+
+---
+
+<p align="center">
+💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio       
+  & recruiter impact.
+</p>
+
 ---
 
 <h2>🖥️ TECH STACK / ТЕХНОЛОГИИ</h2> 
@@ -101,19 +109,11 @@ This project tells the story of turning software knowledge into practical, real-
 ---
 
 <p align="center">
-💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio       
-  & recruiter impact.
-</p>
-
-
----
-
-<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
 </p>
 
-
+---
 
 
